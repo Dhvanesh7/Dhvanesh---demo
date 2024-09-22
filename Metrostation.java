@@ -11,7 +11,7 @@ class Metrostation
 		String ushmanpura = "ushmanpura metro station";
 		String oldhighcourt = "old high court metro station";
 		String running = "old high court metro station to qspider by auto";
-				
+		String ahemdabad = " Ahemdabad Matro Station ";				
 
 		System.out.println(ranip);
 
@@ -25,6 +25,8 @@ class Metrostation
 
 		System.out.println(running);
 
+		Sysout.out.println ( ahemdabad ); 
+			
 		
 		System.out.println(" 1 First_Metro_Station: "+ranip);
 
@@ -34,7 +36,7 @@ class Metrostation
 
 		System.out.println(" 4 Forth_Metro_Station: "+ushmanpura);
 		
-		System.out.println(" 5 Fifth_Metro_Station: "+oldhighcourt);
+		System.out.println(" 5 Fifth_Metro_Station: "+old high court);
 
 		System.out.println(" 6 Sixth_Metro_Station_To_Qspider_By_Auto: "+running);
 
